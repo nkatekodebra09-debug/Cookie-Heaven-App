@@ -1,0 +1,24 @@
+nav {
+  background: #fff3cd;
+  padding: 0.75rem;
+  border-bottom: 1px solid #f1d98f;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  color: #5a4317;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}

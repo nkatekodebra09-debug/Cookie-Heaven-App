@@ -1,0 +1,32 @@
+.cookie-card {
+  padding: 1rem;
+  border: 1px solid #e0c6b1;
+  border-radius: 8px;
+  background: #fff7f0;
+  max-width: 700px;
+  margin-top: 1rem;
+}
+
+.cookie-card h2 {
+  margin-top: 1rem;
+  color: #6a3d24;
+}
+
+.cookie-card p {
+  margin: 0.25rem 0;
+  color: #4a2d1a;
+}
+
+.cookie-card button {
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #f28b4f;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.cookie-card button:hover {
+  background: #d96f33;
+}
